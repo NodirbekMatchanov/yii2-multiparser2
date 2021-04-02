@@ -10,7 +10,8 @@
             "email": "nodirbekrare1@gmail.com"
         }
     ],
-  "minimum-stability": "stable",
+   "minimum-stability": "dev",
+    "prefer-stable": true
     "require": {
         "php": ">=7.0",
         "yiisoft/yii2": "~2.0.0"
